@@ -36,21 +36,32 @@ Figure 02  Encoder 8 * 3
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Write a code in quartus software by creating a new project wizard.
+2.Run the program to get output
+3.The open RTL viewer and download thatimage.
+4.Pen the new file with university program VWF.
+5.Set end timer and execute, then download the waveform.
 
 **PROGRAM**
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
+![Screenshot 2024-12-17 221952](https://github.com/user-attachments/assets/0e6732d6-0ada-4cbb-8cc2-c1be776565ee)
 
-Developed by: RegisterNumber:
-*/
+Developed by: SUBIKSHA K RegisterNumber: 24001100
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
+![Screenshot 2024-12-17 221931](https://github.com/user-attachments/assets/2639b714-6ef5-4723-b4c8-a0fac883a22c)
+
+
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+
+![Screenshot 2024-12-17 222904](https://github.com/user-attachments/assets/33cc9d9d-7ec9-42e5-b899-91782566faf3)
+
+
+
 
 **RESULTS**
 
-
+Thus encoder 8:3 Dataflow is verified and executed successfully using quartus.
 
 
